@@ -1,3 +1,3 @@
 # startupoftheyear-
 Startup Landing Page
-https://github.com/jdhariwal/startupoftheyear-
+https://jdhariwal.github.io/startupoftheyear-/
